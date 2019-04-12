@@ -67,7 +67,7 @@ var AppRoutingModule = /** @class */ (function () {
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<!--The content below is only a placeholder and can be replaced.-->\n<html style=\"color: magenta\">\n<div style=\"text-align:center;\">\n  <h1>\n    Welcome to {{ title }}!\n  </h1>\n  <img width=\"100\" alt=\"Shardul's Picture\" src=\"/assets/images/Sharp.png\">\n</div>\n  <h2>About me: </h2>\n      <p> I am a passionate Software developer with Experience in Software Automation testing, Data Analysis and Web development.\n        I <b style=\"color: red\">❤</b> python, Angular, JavaScript, TypeScript,<b style=\"color: red\">❤</b>npm open source community. I love open source software but I still\n        have doubts about the security side of the open source. I have/will devoted/devote myself to be the best in industry\n        Software Developer in coming years. I love working on web projects, Currently working for\n        <a target=\"_blank\" rel=\"noopener\" href=\"https://www.givenkind.org\" style=\"color: gold\">giveNkind.org</a>\n        Highly motivated for Deep Learning, Machine Learning, Data Science and Complex Dynamic Web Development.\n       </p>\n      <h5 style=\"text-align: center\"><a target=\"_blank\" rel=\"noopener\" href=\"https://www.linkedin.com/in/shardulpadaki\"><img src=\"/assets/images/linkedin.png\"></a><a target=\"_blank\" rel=\"noopener\" href=\"https://www.github.com/Spadaki\" style=\"width:225px;height: 225px;\"><img src=\"/assets/images/github-octocat.png\" style=\"width:400px;height: 225px;\"></a><a target=\"_blank\" rel=\"noopener\" href=\"https://www.twitter.com/sharplapd\"><img src=\"/assets/images/twitter.png\" style=\"width:225px;height: 225px;\"></a></h5>\n      <h2>Certifications Earned:</h2>\n          <h5><a target=\"_blank\" rel=\"noopener\" href=\"https://courses.cognitiveclass.ai/certificates/c279b9b20cb148fe8d4009b4a8cb98f8\">Python for Data Science</a></h5>\n          <h5><a target=\"_blank\" rel=\"noopener\" href=\"https://www.coursera.org/account/accomplishments/verify/XR5BZU4QHR7B\">Google Cloud Platform Fundamentals: Core Infrastructure</a></h5>\n          <h5><a target=\"_blank\" rel=\"noopener\" href=\"https://www.coursera.org/account/accomplishments/verify/Z3TJ84B95C2P\">Getting Started with Google Kubernetes Engine</a></h5>\n          <h5><a target=\"_blank\" rel=\"noopener\" href=\"https://drive.google.com/file/d/1KnUnj3j4znRrgru9tHFdaYsw339CqRVF/view?usp=drivesdk\">Matlab onramp fundamental course</a></h5>\n          <h5><a target=\"_blank\" rel=\"noopener\" href=\"https://www.lynda.com/ViewCertificate/7F702E5F4E964E199A4076E0E3432793?utm_source=directlink&utm_medium=sharing&utm_campaign=certificate\">Gulp.js, Git, and Browserify: Web Project Workflows</a></h5>\n      <div style=\"text-align: center\">Made with <b style=\"color: red\">❤</b> using Angular </div>\n</html>\n\n"
+module.exports = "<!--The content below is only a placeholder and can be replaced.-->\n<html style=\"color: magenta; background-color: white \">\n<div style=\"text-align:center;\">\n  <h1>\n    Welcome to {{ title }}!\n  </h1>\n  <img width=\"300\" alt=\"Shardul's Picture\" src=\"/assets/images/Sharp.png\">\n</div>\n  <h2>About me: </h2>\n      <p> I am a passionate Software Developer with experience in Software Automation testing, Data Analysis and Web development.\n        I <b style=\"color: red\">❤</b> python, angular, javaScript, typeScript and <b style=\"color: red\">❤</b>npm open source community. I love open source software. I have and will continue  to devote myself to be one of the best software developers in the industry.\n        I love working on web projects. Currently working for <a target=\"_blank\" rel=\"noopener\" href=\"https://www.givenkind.org\" style=\"color: gold\">giveNkind.org .</a> Highly motivated for deep and machine learning, data science and complex dynamic web development.\n       </p>\n<h5 style=\"text-align: center\"><a target=\"_blank\" rel=\"noopener\" href=\"https://www.linkedin.com/in/shardulpadaki\"><img  tooltip=\"LinkedIn Profile\" placement =\"top\" src=\"/assets/images/linkedin.png\"></a><a target=\"_blank\" rel=\"noopener\" href=\"https://www.github.com/spadaki\" style=\"width:225px;height: 225px;\"><img  tooltip=\"GitHub Profile\" placement =\"top\" src=\"/assets/images/github-octocat.png\" style=\"width:280px;height: 225px;\"></a><a target=\"_blank\" rel=\"noopener\" href=\"https://www.twitter.com/sharplapd\"><img  tooltip=\"Twitter Handle\" placement =\"top\" src=\"/assets/images/twitter.png\" style=\"width:225px;height: 225px;\"></a><a target=\"_blank\" rel=\"noopener\" href=\"https://drive.google.com/file/d/1BsGP0A4x5IG5fI3OV4co4voVYpTB2QNs/view?usp=sharing\"><img  tooltip=\"Download/View Resume\" placement =\"top\"src=\"/assets/images/Resume.png\" style=\"width:225px;height: 225px;\"></a></h5>\n      <h2>Certifications Earned:</h2>\n          <h5><a target=\"_blank\" rel=\"noopener\" href=\"https://courses.cognitiveclass.ai/certificates/c279b9b20cb148fe8d4009b4a8cb98f8\">Pyhton for Data Science</a></h5>\n          <h5><a target=\"_blank\" rel=\"noopener\" href=\"https://www.coursera.org/account/accomplishments/verify/XR5BZU4QHR7B\">Google Cloud Platform Fundamentals: Core Infrastructure</a></h5>\n          <h5><a target=\"_blank\" rel=\"noopener\" href=\"https://www.coursera.org/account/accomplishments/verify/Z3TJ84B95C2P\">Getting Started with Google Kubernetes Engine</a></h5>\n          <h5><a target=\"_blank\" rel=\"noopener\" href=\"https://drive.google.com/file/d/1KnUnj3j4znRrgru9tHFdaYsw339CqRVF/view?usp=drivesdk\">Matlab onramp fundamental course</a></h5>\n          <h5><a target=\"_blank\" rel=\"noopener\" href=\"https://www.lynda.com/ViewCertificate/7F702E5F4E964E199A4076E0E3432793?utm_source=directlink&utm_medium=sharing&utm_campaign=certificate\">Gulp.js, Git, and Browserify: Web Project Workflows</a></h5>\n          <h5><a target=\"_blank\" rel=\"noopener\" href=\"https://www.linkedin.com/in/shardulpadaki\">and more....</a></h5>\n      <div style=\"text-align: center\">Made with <b style=\"color: red\">❤</b> using Angular </div>\n</html>\n\n"
 
 /***/ }),
 
@@ -132,12 +132,14 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _angular_core__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @angular/core */ "./node_modules/@angular/core/fesm5/core.js");
 /* harmony import */ var _app_routing_module__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./app-routing.module */ "./src/app/app-routing.module.ts");
 /* harmony import */ var _app_component__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./app.component */ "./src/app/app.component.ts");
+/* harmony import */ var ng2_tooltip_directive__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ng2-tooltip-directive */ "./node_modules/ng2-tooltip-directive/fesm5/ng2-tooltip-directive.js");
 var __decorate = (undefined && undefined.__decorate) || function (decorators, target, key, desc) {
     var c = arguments.length, r = c < 3 ? target : desc === null ? desc = Object.getOwnPropertyDescriptor(target, key) : desc, d;
     if (typeof Reflect === "object" && typeof Reflect.decorate === "function") r = Reflect.decorate(decorators, target, key, desc);
     else for (var i = decorators.length - 1; i >= 0; i--) if (d = decorators[i]) r = (c < 3 ? d(r) : c > 3 ? d(target, key, r) : d(target, key)) || r;
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
+
 
 
 
@@ -152,7 +154,8 @@ var AppModule = /** @class */ (function () {
             ],
             imports: [
                 _angular_platform_browser__WEBPACK_IMPORTED_MODULE_0__["BrowserModule"],
-                _app_routing_module__WEBPACK_IMPORTED_MODULE_2__["AppRoutingModule"]
+                _app_routing_module__WEBPACK_IMPORTED_MODULE_2__["AppRoutingModule"],
+                ng2_tooltip_directive__WEBPACK_IMPORTED_MODULE_4__["TooltipModule"],
             ],
             providers: [],
             bootstrap: [_app_component__WEBPACK_IMPORTED_MODULE_3__["AppComponent"]]
@@ -226,7 +229,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_1__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /Users/shardulpadaki/IdeaProjects/SPADAKI-Portfolio/src/main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! /Users/shardul/IdeaProjects/SPADAKI-Portfolio/src/main.ts */"./src/main.ts");
 
 
 /***/ })
